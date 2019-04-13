@@ -20,6 +20,7 @@
     "@google-cloud/language": "^2.1.0",
     "deep-affects": "^0.1.7",
     "express": "^4.16.4",
+    "request": "^2.88.0",
     "request-promise": "^4.2.4"
   }
 }

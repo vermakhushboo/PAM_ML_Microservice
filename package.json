@@ -18,6 +18,8 @@
   "homepage": "https://github.com/vermakhushboo/PAM_ML_Microservice#readme",
   "dependencies": {
     "@google-cloud/language": "^2.1.0",
-    "express": "^4.16.4"
+    "deep-affects": "^0.1.7",
+    "express": "^4.16.4",
+    "request-promise": "^4.2.4"
   }
 }
